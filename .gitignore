@@ -1,0 +1,24 @@
+# Python
+test/
+dist/
+build/
+*.pyc
+__pycache__/
+
+# MIM
+mmdet3d/.mim/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Checkpoints
+work_dirs/
